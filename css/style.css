@@ -1,0 +1,55 @@
+.logo {
+    text-align: center;
+}
+.font-size {
+    font-size: medium;
+    font-weight: lighter;
+}
+.background {
+    background-color:  grey ;
+    width: 1047px;
+    height: 81px;
+    margin-left: 30px;
+}
+.background-aqua {
+    background-color: aqua;
+    width: 386px;
+    height: 77px;
+    margin-left: 30px;
+}
+a {
+    padding-bottom: 20px    ;
+}
+.margin {
+    margin-top: 3px;
+}
+.search {
+    margin-bottom: 10px;
+}
+.float {
+    float:left;
+}
+.background-aqua-2 {
+    background-color: aqua;
+    width: 226px;
+    height: 77px;
+}
+.margin-2 {
+    margin-top: -15px;
+    margin-left: 2px;
+}
+.top {
+    margin-top: 10px;
+}
+.background-aqua-3 {
+    background-color: aqua;
+    width: 429px;
+    height: 75px;
+}
+.margin-3 {
+    margin-top: -32px;
+    margin-left: 2px;
+}
+.font { 
+    font-size: small;
+}
